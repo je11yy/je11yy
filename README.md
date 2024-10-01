@@ -8,4 +8,3 @@
   <a href="https://vk.com/dus1kk"><img alt="Static Badge" src="https://img.shields.io/badge/VK-%2368779c?"></a>
 </div>
 <h3 align = "center">Second year MAI university student</h3>
-<h3 align="center">🔭 <u>Learning now:</u> <small>C / C++ / HTML / CSS</small></h3>
