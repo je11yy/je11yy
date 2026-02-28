@@ -1,10 +1,16 @@
+---
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTA4eHJwZ3NveHVnZjFldGduNWltY2FycWkzeWRmeDNvdWcyeTV1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  <img src="https://media.tenor.com/ZTMxUtDURLgAAAAi/text-texting.gif">
 </div>
 
-<h1 align="center">Welcome to je11yy's profile!</h1>
+---
+
 <div id="social" align="center">
-  <a href="https://t.me/jellyw00n"><img alt="Static Badge" src="https://img.shields.io/badge/-%2368779c?style=social&logo=telegram&logoColor=%2368779c"></a>
-  <a href="https://vk.com/dus1kk"><img alt="Static Badge" src="https://img.shields.io/badge/VK-%2368779c?"></a>
+  <p>&#8595; You can find me here &#8595;</p>
+  <a href="https://t.me/jellyw00n"><img height="40px" alt="Telegram" src="https://www.svgrepo.com/show/354443/telegram.svg"></a>
+  &nbsp;
+  <a href="https://vk.com/dus1kk"><img height="40px" alt="VK" src="https://www.svgrepo.com/show/331634/vk-v2.svg"></a>
 </div>
-<h3 align = "center">Second year MAI university student</h3>
+
+---
